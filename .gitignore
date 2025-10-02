@@ -28,6 +28,7 @@ ehthumbs.db
 Thumbs.db
 
 # Build outputs
-/dist
+dist/
+**/dist/
 /build
 .next/
